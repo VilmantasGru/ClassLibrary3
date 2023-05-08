@@ -60,7 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Generator.cs" />
+    <Compile Include="OtherCases.cs" />
+    <Compile Include="TopMeniu.cs" />
+    <Compile Include="ProductList.cs" />
+    <Compile Include="General methods.cs" />
+    <Compile Include="ProductCardcs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
